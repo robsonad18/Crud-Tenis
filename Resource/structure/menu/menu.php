@@ -13,12 +13,6 @@
         <a class="nav-link" href="#vitrine">Produtos</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Loja</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Fornecedor</a>
-      </li>
-      <li class="nav-item">
         <a class="nav-link" href="#news">Contato</a>
       </li>
     </ul>
